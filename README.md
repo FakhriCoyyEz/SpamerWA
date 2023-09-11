@@ -1,4 +1,4 @@
-# Spamer
+# SpamerWA
 Tools Spamer
 
 # Note
