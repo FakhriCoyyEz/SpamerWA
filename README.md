@@ -2,11 +2,19 @@
 Tools Spamer
 
 #note
-pkg update && pkg upgrade
-pkg install python
-pkg install git
-pkg install python2
-git clone https://github.com/FakhriCoyyEz/SpamerWA
-cd SpamerWa
-pip install -r requirements.txt
-bash module.sh
+
+1.pkg update && pkg upgrade
+
+2. pkg install python
+
+3. pkg install git
+
+4. pkg install python2
+
+5. git clone https://github.com/FakhriCoyyEz/SpamerWA
+
+6. cd SpamerWa
+
+7. pip install -r requirements.txt
+
+8. bash module.sh
