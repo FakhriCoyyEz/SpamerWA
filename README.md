@@ -1,7 +1,7 @@
 # Spamer
 Tools Spamer
 
-#note
+# Note
 
 1.pkg update && pkg upgrade
 
