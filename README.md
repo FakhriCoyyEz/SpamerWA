@@ -24,3 +24,6 @@ Tools Spamer
 10. pip install -r requirements.txt
 
 11. bash Module.sh
+
+12. python Spamer.py
+    
