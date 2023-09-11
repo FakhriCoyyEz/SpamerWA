@@ -11,10 +11,16 @@ Tools Spamer
 
 4. pkg install python2
 
-5. git clone https://github.com/FakhriCoyyEz/SpamerWA
+5. pkg install python-pip
 
-6. cd SpamerWa
+6. pkg install python-pip2
 
-7. pip install -r requirements.txt
+7. pip2 install colorama 
 
-8. bash Module.sh
+8. git clone https://github.com/FakhriCoyyEz/SpamerWA
+
+9. cd SpamerWa
+
+10. pip install -r requirements.txt
+
+11. bash Module.sh
