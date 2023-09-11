@@ -13,7 +13,7 @@ Tools Spamer
 
 5. pkg install python-pip
 
-6. pkg install python-pip2
+6. pkg install pip2
 
 7. pip2 install colorama 
 
