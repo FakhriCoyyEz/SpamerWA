@@ -17,4 +17,4 @@ Tools Spamer
 
 7. pip install -r requirements.txt
 
-8. bash module.sh
+8. bash Module.sh
