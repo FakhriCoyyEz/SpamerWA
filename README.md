@@ -19,7 +19,7 @@ Tools Spamer
 
 8. git clone https://github.com/FakhriCoyyEz/SpamerWA
 
-9. cd SpamerWa
+9. cd SpamerWA
 
 10. pip install -r requirements.txt
 
